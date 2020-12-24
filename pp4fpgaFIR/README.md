@@ -1,6 +1,4 @@
-# Jini-Intelligent-Computing-Lab2
-
-
+# pp4fpga FIR
 
 <br />
 <p align="center">
@@ -9,25 +7,9 @@
   
 </p>
 
-
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-* [Usage](#usage)
-* [Algorithm](#Algorithm)
-* [References](#References)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-本design實作了一個11 taps的FIR。
+* 本design實作了一個11 taps的FIR。
 
 **Directory structure**
 * **./bit ./hwh** FPGA燒錄用
@@ -43,9 +25,9 @@
 * 11 taps FIR
 
 ## References
-*https://github.com/KastnerRG/pp4fpgas/tree/master/examples
+* https://github.com/KastnerRG/pp4fpgas/tree/master/examples
 
 ## Contributing
-*使其可以運行tb及FPGA
+* 使其可以運行tb及FPGA
 
 
