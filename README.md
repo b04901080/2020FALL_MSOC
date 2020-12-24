@@ -1,5 +1,5 @@
-# MSOC - Self-paced Projects
-* This repository is for the course "Multimedia System-on-Chip Design" (2020 Fall)
+# MSOC 2020 FALL Self-paced Projects
+* This repository is for the course "Multimedia System-on-Chip Design 2020 Fall"
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
