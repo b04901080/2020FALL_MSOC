@@ -6,9 +6,9 @@
 **Directory structure**
 * **./bit ./hwh** FPGA燒錄用
 * **./ipynb** FPGA python host
-* **./fir_tb.cpp** 軟體Testbench
-* **./fir.cpp** kernel
-* **./fir.h** 標頭檔
+* **./cordic-top.cpp** 軟體Testbench
+* **./cordic.cpp** kernel
+* **./cordic.h** 標頭檔
 
 ## Usage
 * 用.cpp .h進行軟體模擬
