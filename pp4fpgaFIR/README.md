@@ -1,13 +1,5 @@
 # pp4fpga FIR
 
-<br />
-<p align="center">
-
-  <h3 align="center">MSOC-HLS project github template</h3>
-  
-</p>
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 * 本design實作了一個11 taps的FIR。
 
@@ -19,6 +11,7 @@
 * **./fir.h** 標頭檔
 
 ## Usage
+* 用.cpp與.h進行軟體模擬
 * 用.ipynb與.hwh .bit在FPGA上運作
 
 ## Algorithm
@@ -29,5 +22,6 @@
 
 ## Contributing
 * 使其可以運行tb及FPGA
+* 減少latency
 
 
