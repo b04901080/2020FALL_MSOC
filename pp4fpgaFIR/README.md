@@ -20,7 +20,7 @@
 ## References
 * https://github.com/KastnerRG/pp4fpgas/tree/master/examples
 
-## Contributing
+## Contribution
 * 使其可以運行tb及FPGA
 * 減少latency
 
