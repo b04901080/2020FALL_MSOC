@@ -20,7 +20,7 @@
 ## References
 * https://github.com/KastnerRG/pp4fpgas/tree/master/examples
 
-## Contributing
+## Contribution
 * 增加precision
 * 減少誤差
 
