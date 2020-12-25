@@ -3,7 +3,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-* This repository contains three projects.
+* This repository contains 5 projects.
 
 ## Project Category
 * [pp4fpgaCORDIC](https://github.com/b04901080/2020FALL_MSOC/tree/main/pp4fpgaCORDIC)
