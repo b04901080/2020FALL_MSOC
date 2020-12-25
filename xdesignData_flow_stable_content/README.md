@@ -20,6 +20,6 @@
 ## References
 * ~Xilinx/Vivado/2019.2/examples/design
 
-## Contributing
+## Contribution
 * 解決II violation
 
